@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Sofia Gamiño
+🌱 :seedling:	I'm currently a undergrad student but i'm working in rare disease modeling in C.elegans, i am learning bioinformatics and genetics in ENES LCG
+- I'm looking to colaborate in themes of epigenetic regulation of aging, any references are appreciated :3
+- I also want to learn more about ATAQ-seq, single cell and RNA-seq
+- My favorite food are tacos and chicken in all its presentations 🍖 :meat_on_bone:
+- Also i'm learning japanese and i hope to go soon 🗻 :mount_fuji:	
+I also love cats and games, if you want to play with me here is my code friend from steam: 
 
 <!--
 **ghobi20/ghobi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
